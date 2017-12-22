@@ -1,0 +1,4 @@
+CSCI5531-01|2|1|2|open
+CSCI5531-02|1|2|5|open
+CSCI5432-01|2|3|3|open
+CSCI5432-02|1|4|5|open

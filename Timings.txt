@@ -1,0 +1,4 @@
+1|Mon & wed|1:00pm-2:30pm
+2|Tue & Thur|1:00pm-2:30pm
+3|Mon|1:00 pm - 4:00pm
+4|Tue|8:00 am - 11:00am

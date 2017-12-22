@@ -1,0 +1,4 @@
+CSCI5531-01|AOS|Includes Distributed systems|3.00|Hasan
+CSCI5531-02|AOS|Includes Distributed systems|3.00|Abukmail
+CSCI5432-01|DAA|Design analysis|3.00|Hasan
+CSCI5432-02|DAA|Design analysis|3.00|Hasan
